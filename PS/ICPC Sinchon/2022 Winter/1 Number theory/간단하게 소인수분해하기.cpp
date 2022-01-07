@@ -1,7 +1,9 @@
 // 시간 복잡도 : O(root n)
 
-#define ll long long
+#include <iostream>
 #include <vector>
+#define ll long long
+using namespace std;
 
 void f(ll n) {
     vector<ll> v; // 소인수 분해 결과 저장
