@@ -5,3 +5,5 @@ Hi there
 <a href="https://www.acmicpc.net/user/yeongjujeong1021" target="_blank"><img src="https://img.shields.io/badge/BOJ-000000?style=flat-square"/></a>
 
 <a href="https://solved.ac/profile/yeongjujeong1021" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-000000?style=flat-square"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeongjuJeong&show_icons=true&theme=radical)
