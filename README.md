@@ -6,4 +6,7 @@ Hi there
 
 <a href="https://solved.ac/profile/yeongjujeong1021" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-000000?style=flat-square"/></a>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjujeong1021)](https://solved.ac/yeongjujeong1021)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeongjuJeong&show_icons=true&theme=radical)
